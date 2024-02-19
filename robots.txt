@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wealthwaydigital2.xyz/sitemap.xml
+Sitemap: https://.xyz/sitemap.xml
