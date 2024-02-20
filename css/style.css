@@ -1023,6 +1023,10 @@ b {
    .block1 .left .desctop {
       display: none
    }
+   
+   .block1 .wrapper {
+      padding: 0;
+   }
 
    .block1 .left .mobile {
       display: block;
