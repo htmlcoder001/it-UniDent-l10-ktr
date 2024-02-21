@@ -1245,6 +1245,15 @@ b {
    }
 }
 
+@media (max-width:375px) {
+   
+   
+   .block1 .content {
+      padding-left: 12px;
+      padding-right: 12px;
+   }
+}
+
 
 
 .cpu{
